@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ipfsProjectTest2/TransferPage.swift"
+            timestampString = "546174005.976392"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "TransferPage"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ipfsProjectTest2.TransferPage._UploadFilePath.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSPathControl&gt;"
+                  moduleName = "ipfsProjectTest2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoshiwu/Desktop/ipfsProjectTest2/ipfsProjectTest2/TransferPage.swift"
+                  timestampString = "546162702.5782011"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ipfsProjectTest2.TransferPage._UploadFilePath.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSPathControl&gt;"
+                  moduleName = "ipfsProjectTest2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoshiwu/Desktop/ipfsProjectTest2/ipfsProjectTest2/TransferPage.swift"
+                  timestampString = "546162702.587809"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ipfsProjectTest2.TransferPage.init() -&gt; ipfsProjectTest2.TransferPage"
+                  moduleName = "ipfsProjectTest2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoshiwu/Desktop/ipfsProjectTest2/ipfsProjectTest2/TransferPage.swift"
+                  timestampString = "546162702.589711"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ipfsProjectTest2/TransferPage.swift"
+            timestampString = "546174005.976449"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "TransferPage"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ipfsProjectTest2.TransferPage._DownloadHashCode.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSTextField&gt;"
+                  moduleName = "ipfsProjectTest2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoshiwu/Desktop/ipfsProjectTest2/ipfsProjectTest2/TransferPage.swift"
+                  timestampString = "546162711.668064"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ipfsProjectTest2.TransferPage._DownloadHashCode.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSTextField&gt;"
+                  moduleName = "ipfsProjectTest2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoshiwu/Desktop/ipfsProjectTest2/ipfsProjectTest2/TransferPage.swift"
+                  timestampString = "546162711.670688"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ipfsProjectTest2.TransferPage.init() -&gt; ipfsProjectTest2.TransferPage"
+                  moduleName = "ipfsProjectTest2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoshiwu/Desktop/ipfsProjectTest2/ipfsProjectTest2/TransferPage.swift"
+                  timestampString = "546162711.672752"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ipfsProjectTest2/TransferPage.swift"
+            timestampString = "546174005.97649"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "TransferPage"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ipfsProjectTest2/ViewController.swift"
+            timestampString = "546174005.976532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ipfsProjectTest2/LoginInPage.swift"
+            timestampString = "546398851.5718139"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "DoLogin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
