@@ -14,6 +14,18 @@
 		83937B57208C4FB700555043 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83937B55208C4FB700555043 /* Main.storyboard */; };
 		83937B63208C4FB800555043 /* ipfsProjectTest2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937B62208C4FB800555043 /* ipfsProjectTest2Tests.swift */; };
 		83937B6E208C4FB800555043 /* ipfsProjectTest2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937B6D208C4FB800555043 /* ipfsProjectTest2UITests.swift */; };
+		83937B7D208C508500555043 /* libsqlite3.0.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 83937B7C208C508500555043 /* libsqlite3.0.tbd */; };
+		83937B83208C659000555043 /* data.db in Resources */ = {isa = PBXBuildFile; fileRef = 83937B82208C659000555043 /* data.db */; };
+		83937B8A208C667A00555043 /* theFirstPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937B84208C667900555043 /* theFirstPage.swift */; };
+		83937B8B208C667A00555043 /* SQLManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937B85208C667900555043 /* SQLManager.swift */; };
+		83937B8C208C667A00555043 /* TransferPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937B86208C667A00555043 /* TransferPage.swift */; };
+		83937B8D208C667A00555043 /* daemonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937B87208C667A00555043 /* daemonViewController.swift */; };
+		83937B8E208C667A00555043 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937B88208C667A00555043 /* SignUpViewController.swift */; };
+		83937BAC208C91A100555043 /* CloudDB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937BA8208C91A000555043 /* CloudDB.swift */; };
+		83937BAD208C91A100555043 /* SQLTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937BA9208C91A100555043 /* SQLTable.swift */; };
+		83937BAE208C91A100555043 /* SQLiteDB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937BAA208C91A100555043 /* SQLiteDB.swift */; };
+		83937BAF208C91A100555043 /* SQLiteBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937BAB208C91A100555043 /* SQLiteBase.swift */; };
+		83937BB1208DEC9F00555043 /* LoginInPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83937BB0208DEC9E00555043 /* LoginInPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +60,19 @@
 		83937B69208C4FB800555043 /* ipfsProjectTest2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ipfsProjectTest2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		83937B6D208C4FB800555043 /* ipfsProjectTest2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ipfsProjectTest2UITests.swift; sourceTree = "<group>"; };
 		83937B6F208C4FB800555043 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83937B7C208C508500555043 /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
+		83937B7F208C656500555043 /* SQLite-Bridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SQLite-Bridge.h"; sourceTree = "<group>"; };
+		83937B82208C659000555043 /* data.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = data.db; sourceTree = "<group>"; };
+		83937B84208C667900555043 /* theFirstPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = theFirstPage.swift; sourceTree = "<group>"; };
+		83937B85208C667900555043 /* SQLManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SQLManager.swift; sourceTree = "<group>"; };
+		83937B86208C667A00555043 /* TransferPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransferPage.swift; sourceTree = "<group>"; };
+		83937B87208C667A00555043 /* daemonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = daemonViewController.swift; sourceTree = "<group>"; };
+		83937B88208C667A00555043 /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		83937BA8208C91A000555043 /* CloudDB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CloudDB.swift; sourceTree = "<group>"; };
+		83937BA9208C91A100555043 /* SQLTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SQLTable.swift; sourceTree = "<group>"; };
+		83937BAA208C91A100555043 /* SQLiteDB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SQLiteDB.swift; sourceTree = "<group>"; };
+		83937BAB208C91A100555043 /* SQLiteBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SQLiteBase.swift; sourceTree = "<group>"; };
+		83937BB0208DEC9E00555043 /* LoginInPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginInPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83937B7D208C508500555043 /* libsqlite3.0.tbd in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,10 +104,14 @@
 		83937B40208C4FAF00555043 = {
 			isa = PBXGroup;
 			children = (
+				83937B9F208C914B00555043 /* SQLiteDB */,
+				83937B82208C659000555043 /* data.db */,
+				83937B7F208C656500555043 /* SQLite-Bridge.h */,
 				83937B4B208C4FAF00555043 /* ipfsProjectTest2 */,
 				83937B61208C4FB800555043 /* ipfsProjectTest2Tests */,
 				83937B6C208C4FB800555043 /* ipfsProjectTest2UITests */,
 				83937B4A208C4FAF00555043 /* Products */,
+				83937B7B208C508500555043 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -98,10 +128,16 @@
 		83937B4B208C4FAF00555043 /* ipfsProjectTest2 */ = {
 			isa = PBXGroup;
 			children = (
+				83937BB0208DEC9E00555043 /* LoginInPage.swift */,
 				83937B4C208C4FAF00555043 /* AppDelegate.swift */,
 				83937B4E208C4FAF00555043 /* ViewController.swift */,
 				83937B53208C4FB700555043 /* Assets.xcassets */,
 				83937B55208C4FB700555043 /* Main.storyboard */,
+				83937B87208C667A00555043 /* daemonViewController.swift */,
+				83937B88208C667A00555043 /* SignUpViewController.swift */,
+				83937B85208C667900555043 /* SQLManager.swift */,
+				83937B84208C667900555043 /* theFirstPage.swift */,
+				83937B86208C667A00555043 /* TransferPage.swift */,
 				83937B58208C4FB700555043 /* Info.plist */,
 				83937B59208C4FB700555043 /* ipfsProjectTest2.entitlements */,
 				83937B50208C4FAF00555043 /* ipfsProjectTest2.xcdatamodeld */,
@@ -127,6 +163,25 @@
 			path = ipfsProjectTest2UITests;
 			sourceTree = "<group>";
 		};
+		83937B7B208C508500555043 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				83937B7C208C508500555043 /* libsqlite3.0.tbd */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		83937B9F208C914B00555043 /* SQLiteDB */ = {
+			isa = PBXGroup;
+			children = (
+				83937BA8208C91A000555043 /* CloudDB.swift */,
+				83937BAB208C91A100555043 /* SQLiteBase.swift */,
+				83937BAA208C91A100555043 /* SQLiteDB.swift */,
+				83937BA9208C91A100555043 /* SQLTable.swift */,
+			);
+			path = SQLiteDB;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -137,6 +192,7 @@
 				83937B45208C4FAF00555043 /* Sources */,
 				83937B46208C4FAF00555043 /* Frameworks */,
 				83937B47208C4FAF00555043 /* Resources */,
+				83937B7E208C50B600555043 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -195,6 +251,11 @@
 				TargetAttributes = {
 					83937B48208C4FAF00555043 = {
 						CreatedOnToolsVersion = 9.3;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 1;
+							};
+						};
 					};
 					83937B5D208C4FB800555043 = {
 						CreatedOnToolsVersion = 9.3;
@@ -232,6 +293,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				83937B54208C4FB700555043 /* Assets.xcassets in Resources */,
+				83937B83208C659000555043 /* data.db in Resources */,
 				83937B57208C4FB700555043 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -252,14 +314,40 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		83937B7E208C50B600555043 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		83937B45208C4FAF00555043 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				83937B52208C4FAF00555043 /* ipfsProjectTest2.xcdatamodeld in Sources */,
+				83937B8D208C667A00555043 /* daemonViewController.swift in Sources */,
+				83937B8E208C667A00555043 /* SignUpViewController.swift in Sources */,
+				83937BB1208DEC9F00555043 /* LoginInPage.swift in Sources */,
+				83937B8C208C667A00555043 /* TransferPage.swift in Sources */,
+				83937BAF208C91A100555043 /* SQLiteBase.swift in Sources */,
+				83937B8B208C667A00555043 /* SQLManager.swift in Sources */,
+				83937BAC208C91A100555043 /* CloudDB.swift in Sources */,
 				83937B4F208C4FAF00555043 /* ViewController.swift in Sources */,
 				83937B4D208C4FAF00555043 /* AppDelegate.swift in Sources */,
+				83937B8A208C667A00555043 /* theFirstPage.swift in Sources */,
+				83937BAE208C91A100555043 /* SQLiteDB.swift in Sources */,
+				83937BAD208C91A100555043 /* SQLTable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -362,6 +450,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/miaoshiwu/Desktop/ipfsProjectTest2/SQLite-Bridge.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -415,6 +504,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/miaoshiwu/Desktop/ipfsProjectTest2/SQLite-Bridge.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 			};
 			name = Release;

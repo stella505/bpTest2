@@ -12,9 +12,13 @@ import Cocoa
 class AppDelegate: NSObject, NSApplicationDelegate {
 
 
+    let db = SQLiteDB.shared
+    
+    var masterViewController: ViewController!
 
     func applicationDidFinishLaunching(_ aNotification: Notification) {
         // Insert code here to initialize your application
+        masterViewController = ViewController(nibName:NSNib.Name(rawValue: "ViewController"), bundle:nil)
     }
 
     func applicationWillTerminate(_ aNotification: Notification) {
